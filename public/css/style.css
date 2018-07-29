@@ -1,0 +1,12 @@
+body{
+    background-color: gray;
+}
+.post-main{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+}
+.card-main{
+    width: 260px;
+    height: 300px;
+}
